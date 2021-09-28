@@ -1,4 +1,4 @@
-#ASYNCHRONISM WITH PLATZI
+# ASYNCHRONISM WITH PLATZI
 In this course I learn how to use callbacks, Promise and async/await, some interesting thing as optimization, good practices and in wich situation I need to use them.
 ## Callbacks 
 - Universal (version or Browser)
